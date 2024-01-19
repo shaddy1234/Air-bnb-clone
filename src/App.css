@@ -6,6 +6,12 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
 }
+.container {
+  height: 100vh;
+  width: 700px;
+  margin: auto auto;
+  border: 1px solid black;
+}
 
 nav {
   height: 70px;
