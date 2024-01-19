@@ -19,8 +19,8 @@ export default function Card({openSpots, location, coverImg, stats, rating, revi
             />
             <div className="card--stats">
                 <img src="../images/star.png" className="card--star" />
-                <span>{rating}</span>
-                <span className="gray">({reviewCount}) • </span>
+                <span>{stats.rating}</span>
+                <span className="gray">({stats.reviewCount}) • </span>
                 <span className="gray">{location}</span>
             </div>
             <p className="card--title">{title}</p>
