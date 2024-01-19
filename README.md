@@ -1,2 +1,3 @@
-This is an Airbnb clone
-am working on fixing some bugs
+# Airbnb Clone
+## Overview
+This project is a clone of the popular Airbnb platform. 
